@@ -4,7 +4,6 @@ import classes from './BurgerIngredient.module.css';
 
 
 
-
 const burgerIngredient = (props) => {
 
     let ingredient = null; 
