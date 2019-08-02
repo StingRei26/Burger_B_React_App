@@ -45,7 +45,7 @@ let ingredient = null;
 
 }
 
-BurgerIngredient.prototype = {
+BurgerIngredient.propTypes = {
     type: PropTypes.string.isRequired
 }; 
   
