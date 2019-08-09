@@ -1,5 +1,5 @@
 import React from 'react'; 
-import classes from './BuilConyrol.module.css';
+import classes from './BuildControl.module.css';
 
 
 const buildControl = (props) => (
