@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import Aux from "../../hoc/Aux"; // this is used to have multiple divs in one component
+import Aux from "../Aux/Aux"; // this is used to have multiple divs in one component
 import styles from "./Layout.module.css"; // to pull all css classes from Layouts.css
 import classes from "./Layout.module.css";
-import Toolbar from "../Navigation/Toolbar/Toolbar";
-import SideDrawer from "../Navigation/SideDrawer/SideDrawer";
+import Toolbar from "../../components/Navigation/Toolbar/Toolbar";
+import SideDrawer from "../../components/Navigation/SideDrawer/SideDrawer";
 
 class Layout extends Component {
 
