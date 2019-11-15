@@ -10,3 +10,9 @@ ReactDOM.render(<App />, document.getElementById('root'));
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+
+// Firebug DB end point 
+// https://react-my-burger-cd26f.firebaseio.com/
+
+// Link - https://console.firebase.google.com/u/1/project/react-my-burger-cd26f/database/react-my-burger-cd26f/data
